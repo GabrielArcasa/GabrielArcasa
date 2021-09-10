@@ -1,4 +1,4 @@
-## Eae! Eu sou Gabriel Arcasa um Desenvoldedor que Programa Codigos pela Internet e em Empresas
+## Eae! Eu sou Gabriel Arcasa um Desenvoldedor que faz jogos no tempo livre e no tempo não livre trabalha
  <div>
   <a href="https://github.com/GabrielArcasa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielArcasa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
