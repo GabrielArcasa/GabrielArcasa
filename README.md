@@ -11,7 +11,7 @@
   <img align="center" alt="Gabriel-Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
   <img align="center" alt="Gabriel-dotnetCore" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Gabriel-Squirtle" src="https://steamuserimages-a.akamaihd.net/ugc/1776085529486226779/B67973CA076712F6D85CC57F9D7E85FCC3029E32/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+  <img align="right" alt="Gabriel-Squirtle" src="https://i.imgur.com/bbvzm8e.gif">
 </div>
   
   ##
