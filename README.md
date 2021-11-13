@@ -1,6 +1,6 @@
 # Eae! Eu sou Gabriel Arcasa um Desenvoldedor que faz jogos no tempo livre e no tempo não livre trabalha
 # Hello There! My Name is Gabriel, and i'am a Developer that make Games in the free time, and when not, Work.
-### Hey don't look my Commits here, i use Azure Repos too !! :)
+### Hey don't look my Commits here, i use more Azure Repos !! :)
  <div>
   <a href="https://github.com/GabrielArcasa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielArcasa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
